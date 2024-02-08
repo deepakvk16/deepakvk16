@@ -5,7 +5,7 @@ Hey there!
  I’m looking for help with Internship Opportunities
  Ask me about Game Development
  How to reach me: deepakvk1609@gmail.com
- Pronouns: He/Him
+ 
 
 <!---
 deepakvk16/deepakvk16 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
